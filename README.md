@@ -1,6 +1,6 @@
 ### Hi there I'm Jordan 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/lexxns/lexxns/blob/master/devcard.svg" width="400" alt="Jordan Aspinall's Dev Card"/></a>
+<img src="https://github.com/lexxns/lexxns/blob/main/devcard.svg" width="400" alt="Jordan Aspinall's Dev Card"/>
 
 <!--
 **lexxns/lexxns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
