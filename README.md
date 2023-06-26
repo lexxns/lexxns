@@ -8,10 +8,4 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=lexxns&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
 <img src="https://github.com/lexxns/lexxns/blob/main/devcard.svg" width="400" alt="Jordan Aspinall's Dev Card"/>
