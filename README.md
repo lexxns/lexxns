@@ -6,6 +6,6 @@
 
 <img src="https://github.com/lexxns/lexxns/blob/main/devcard.svg" width="400" alt="Jordan Aspinall's Dev Card"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lexxns&theme=onedark)](https://github.com/lexxns/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lexxns&theme=dracula&title=-Stars,-Followers,-PullRequest,-Issues,-Reviews)](https://github.com/lexxns/github-profile-trophy)
 
 
