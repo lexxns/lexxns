@@ -8,4 +8,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lexxns&theme=dracula&title=-Stars,-Followers,-PullRequest,-Issues,-Reviews)](https://github.com/lexxns/github-profile-trophy)
 
-
+<!-- my-badges start -->
+<!-- my-badges end -->
