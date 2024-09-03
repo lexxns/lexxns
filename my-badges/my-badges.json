@@ -1,0 +1,65 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/lexxns/word-counter/commit/aa22d88d51405aec74f5e00e0596e008f3855d8b\"><strong>a</strong>a22d88d51405aec74f5e00e0596e008f3855d8b</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 35 times)\n2. signed-off-by: (used 28 times)\n3. jordan (used 28 times)\n4. aspinall (used 28 times)\n5. <lexxns@yahoo.co.uk> (used 28 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/svelte-game-sandbox/commit/4bf801c793c33c20d51669e2f0e354d45c8692df\">4bf801c</a>: Fix animations\n- <a href=\"https://github.com/lexxns/svelte-game-sandbox/commit/a8a6d14809045c2e9581ed821b7deb2fc0643a19\">a8a6d14</a>: Fix Animations",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/lexxns/commit/34c38dcced377e4f44a219a6a812ea56e350cf19\">34c38dc</a>\n- <a href=\"https://github.com/lexxns/lexxns/commit/3d2c683a57d73b00d6a3a03f4e898e2a0142081f\">3d2c683</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/word-counter/commit/5932144b7bb4fa2ae282811d44d4992c6d2786d4\">5932144</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
