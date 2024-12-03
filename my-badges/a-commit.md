@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/lexxns/word-counter/commit/aa22d88d51405aec74f5e00e0596e008f3855d8b"><strong>a</strong>a22d88d51405aec74f5e00e0596e008f3855d8b</a>
+- <a href="https://github.com/lexxns/scripts_collection/commit/a03c2162db4cd4ed32a719e7ad20e546370b3039"><strong>a</strong>03c2162db4cd4ed32a719e7ad20e546370b3039</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
