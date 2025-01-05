@@ -61,5 +61,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/lexxns/exercism_rust/commit/ab8b79e569b0ea36316c543d484339d88a999a13\"><strong>ab</strong>8b79e569b0ea36316c543d484339d88a999a13</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   }
 ]
