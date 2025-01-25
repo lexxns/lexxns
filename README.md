@@ -4,8 +4,6 @@
   </a>
 </div>
 
-<img src="https://github.com/lexxns/lexxns/blob/main/devcard.svg" width="400" alt="Jordan Aspinall's Dev Card"/>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=lexxns&theme=dracula&title=-Stars,-Followers,-PullRequest,-Issues,-Reviews)](https://github.com/lexxns/github-profile-trophy)
 
 <!-- my-badges start -->
@@ -21,3 +19,4 @@
 <a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <!-- my-badges end -->
 
+<img src="https://github.com/lexxns/lexxns/blob/main/devcard.svg" width="400" alt="Jordan Aspinall's Dev Card"/>
