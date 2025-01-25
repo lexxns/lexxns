@@ -19,4 +19,4 @@
 <a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <!-- my-badges end -->
 
-<img src="https://github.com/lexxns/lexxns/blob/main/devcard.svg" width="400" alt="Jordan Aspinall's Dev Card"/>
+<img src="https://github.com/lexxns/lexxns/blob/main/devcard.svg" width="200" alt="Jordan Aspinall's Dev Card"/>
