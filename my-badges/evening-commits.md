@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/lexxns/rust-game/commit/8be01c7882d14aef9d03801c5e4036a3fd2b847f">8be01c7</a>
+- <a href="https://github.com/lexxns/rust-game/commit/5f4b45037af271a844b0da9c122f49c0615ae3ad">5f4b450</a>
 - <a href="https://github.com/lexxns/rust-game/commit/a2b0679d79100b6169182898e07e13ae50a13ab5">a2b0679</a>
 - <a href="https://github.com/lexxns/rust-game/commit/df7382efd278cb1e4072c82a742dc5637e243e36">df7382e</a>
 - <a href="https://github.com/lexxns/rust-game/commit/ec01e935e9e81859fd9eb1e6601520c03e7e8ec0">ec01e93</a>
 - <a href="https://github.com/lexxns/rust-game/commit/a169e1ea7a54b3daa89b87e75d3bc83d643a7c59">a169e1e</a>
-- <a href="https://github.com/lexxns/rust-game/commit/df391593d2bd70b62d5ea8db7d3bc3d64b669a4e">df39159</a>
-- <a href="https://github.com/lexxns/rust-game/commit/512ea4c03d6ec6ca2b4b880036ec0214995e5ac4">512ea4c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
