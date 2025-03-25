@@ -4,7 +4,7 @@
 
 My favorite commit message words are:
 
-1. update (used 41 times)
+1. update (used 43 times)
 2. signed-off-by: (used 28 times)
 3. jordan (used 28 times)
 4. aspinall (used 28 times)
