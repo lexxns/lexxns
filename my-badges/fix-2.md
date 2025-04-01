@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/lexxns/svelte-game-sandbox/commit/4bf801c793c33c20d51669e2f0e354d45c8692df">4bf801c</a>: Fix animations
-- <a href="https://github.com/lexxns/svelte-game-sandbox/commit/a8a6d14809045c2e9581ed821b7deb2fc0643a19">a8a6d14</a>: Fix Animations
+- <a href="https://github.com/lexxns/TerraformBuilder/commit/75e0d88d0d1cb5142ed3cc44d9ca62ba3d530a66">75e0d88</a>: fix test
+- <a href="https://github.com/lexxns/TerraformBuilder/commit/9206d2971dd9bf98fa1e02eedf0e3cceb8e77c98">9206d29</a>: fix identify policy as JSON
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
