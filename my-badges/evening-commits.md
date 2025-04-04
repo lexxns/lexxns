@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/lexxns/TerraformBuilder/commit/8a33cfda0e53cd0fa6a0b20f4c4ee27202b3545d">8a33cfd</a>
+- <a href="https://github.com/lexxns/TerraformBuilder/commit/f6c007c509f5676a9531fa48aa5260262eebe42d">f6c007c</a>
 - <a href="https://github.com/lexxns/TerraformBuilder/commit/873d85a5fe804f9130cfefb495c60512bbca323b">873d85a</a>
 - <a href="https://github.com/lexxns/TerraformBuilder/commit/282a6189f5d1b4361e656fd8740afa24ecba96e6">282a618</a>
 - <a href="https://github.com/lexxns/TerraformBuilder/commit/29f07894c7a60f426289e19f6d411470097468e9">29f0789</a>
 - <a href="https://github.com/lexxns/TerraformBuilder/commit/e9c9eea733e79088b241f1353273584cd1a64a69">e9c9eea</a>
-- <a href="https://github.com/lexxns/TerraformBuilder/commit/6e153fb05befefa0ca41a0fd3c002c43e6af1a37">6e153fb</a>
-- <a href="https://github.com/lexxns/TerraformBuilder/commit/f59180ade513aa7762eaaa3c187629d9a6082b1e">f59180a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
