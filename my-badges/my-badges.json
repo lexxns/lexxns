@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 45 times)\n2. signed-off-by: (used 28 times)\n3. jordan (used 28 times)\n4. aspinall (used 28 times)\n5. <lexxns@yahoo.co.uk> (used 28 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 45 times)\n2. add (used 28 times)\n3. signed-off-by: (used 28 times)\n4. jordan (used 28 times)\n5. aspinall (used 28 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/760e008a3cf1b94cb3896924ef5a41bd9d3e2b3a\">760e008</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/a9f79d8255fe254d08ed37210fa4663c29145a13\">a9f79d8</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/8a33cfda0e53cd0fa6a0b20f4c4ee27202b3545d\">8a33cfd</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/f6c007c509f5676a9531fa48aa5260262eebe42d\">f6c007c</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/873d85a5fe804f9130cfefb495c60512bbca323b\">873d85a</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/282a6189f5d1b4361e656fd8740afa24ecba96e6\">282a618</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/6459a806e3a1ec21212de74a7415e1b361b65ad5\">6459a80</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/760e008a3cf1b94cb3896924ef5a41bd9d3e2b3a\">760e008</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/a9f79d8255fe254d08ed37210fa4663c29145a13\">a9f79d8</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/8a33cfda0e53cd0fa6a0b20f4c4ee27202b3545d\">8a33cfd</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/f6c007c509f5676a9531fa48aa5260262eebe42d\">f6c007c</a>\n- <a href=\"https://github.com/lexxns/TerraformBuilder/commit/873d85a5fe804f9130cfefb495c60512bbca323b\">873d85a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
