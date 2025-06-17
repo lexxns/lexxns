@@ -4,7 +4,8 @@
   </a>
 </div>
 
-<img src="https://www.credly.com/badges/202abbc8-413b-42db-a545-a5e4496c65e5/public_url"/>
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lexxns&theme=dracula&title=-Stars,-Followers,-PullRequest,-Issues,-Reviews)](https://github.com/lexxns/github-profile-trophy)
 
