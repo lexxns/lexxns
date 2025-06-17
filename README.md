@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="202abbc8-413b-42db-a545-a5e4496c65e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lexxns&theme=dracula&title=-Stars,-Followers,-PullRequest,-Issues,-Reviews)](https://github.com/lexxns/github-profile-trophy)
 
 <!-- my-badges start -->
