@@ -7,8 +7,6 @@
 <!--START_BADGES:badges-->
 <!--END_BADGES:badges-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lexxns&theme=dracula&title=-Stars,-Followers,-PullRequest,-Issues,-Reviews)](https://github.com/lexxns/github-profile-trophy)
-
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
