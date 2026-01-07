@@ -82,5 +82,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/rust-game/commit/b8c64e0ef4307397dbe9e3aee26f893050db91e4\">b8c64e0</a>\n- <a href=\"https://github.com/lexxns/scripts_collection/commit/0450693df29d75ca2b86205d2799d2bb75dca435\">0450693</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/svelte-game-sandbox/commit/30f83e3976ab36d46844cad8620cc572f20605a9\">30f83e3</a>\n- <a href=\"https://github.com/lexxns/svelte-game-sandbox/commit/65f7fcdee19cffb42f94a4d141eb0feb5955e77a\">65f7fcd</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
