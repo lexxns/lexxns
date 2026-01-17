@@ -63,13 +63,6 @@
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
-    "id": "public-keys-5",
-    "tier": 5,
-    "desc": "I have five or more public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
-  },
-  {
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
@@ -89,5 +82,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/lexxns/svelte-game-sandbox/commit/30f83e3976ab36d46844cad8620cc572f20605a9\">30f83e3</a>\n- <a href=\"https://github.com/lexxns/svelte-game-sandbox/commit/65f7fcdee19cffb42f94a4d141eb0feb5955e77a\">65f7fcd</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   }
 ]
